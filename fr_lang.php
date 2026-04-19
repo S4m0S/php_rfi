@@ -2,4 +2,4 @@
 echo getcwd() . "\n";
 $dir = "./";
 $files = scandir($dir);
-echo $files;?>
+print_r($files);?>
