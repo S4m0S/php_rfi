@@ -5,5 +5,5 @@ $dir = "./";
 
 $files = scandir($dir);
 
-echo $files .  "\n";
+echo $files;
 ?>
